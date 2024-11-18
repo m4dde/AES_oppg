@@ -12,3 +12,5 @@ with open("encrypted_data_bin", "rb") as f:
     iv = data[:16]
     kryptogram = data[16:]
 
+
+
